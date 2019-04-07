@@ -6,4 +6,19 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>tmp-model</artifactId>
+  
+  <dependencies>
+  	<dependency>
+		<groupId>org.projectlombok</groupId>
+		<artifactId>lombok</artifactId>
+		<optional>true</optional>
+	</dependency>
+	
+	<dependency>
+		<groupId>com.project</groupId>
+	    <artifactId>tmp-common</artifactId>
+	    <version>0.0.1-SNAPSHOT</version>
+	</dependency>
+  </dependencies>
+  
 </project>

@@ -13,5 +13,11 @@
 	    <artifactId>tmp-model</artifactId>
 	    <version>0.0.1-SNAPSHOT</version>
   	</dependency>
+  	
+  	<dependency>
+  		<groupId>com.project</groupId>
+	    <artifactId>tmp-common</artifactId>
+	    <version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>

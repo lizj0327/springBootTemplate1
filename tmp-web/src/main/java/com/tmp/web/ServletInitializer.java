@@ -1,4 +1,4 @@
-package org.tmp.web;
+package com.tmp.web;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

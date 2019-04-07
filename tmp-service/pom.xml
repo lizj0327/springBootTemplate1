@@ -25,5 +25,10 @@
 	    <artifactId>tmp-common</artifactId>
 	    <version>0.0.1-SNAPSHOT</version>
   	</dependency>
+  	
+	<dependency>
+	    <groupId>mysql</groupId>
+	    <artifactId>mysql-connector-java</artifactId>
+	</dependency>
   </dependencies>
 </project>
